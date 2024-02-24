@@ -1,0 +1,291 @@
+---
+title: "Agile Onderwijs"
+subtitle: "Visiedocument"
+author:
+   - Witek ten Hove
+lang: nl
+date: last-modified
+format:
+  html:
+    toc: true
+    number-sections: true
+    include-in-header:
+      - header.html
+    include-after-body:
+      scripts.html
+title-block-banner: "#e50055"
+editor: visual
+bibliography: bibliography.bib
+---
+
+## - Doel {{< fa bullseye >}}
+
+```{=html}
+<p class="lead">
+
+Tekst
+
+</p>
+```
+Tekst
+
+## - Missie / Visie {{< fa mountain-sun >}}
+
+> *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
+>
+> ### Doel 1: maatschappelijk betrokken wereldburgers {.unnumbered}
+>
+> Onze studenten ervaren dat ze bij de HAN niet alleen kennis en praktische vaardigheden verwerven om de toekomst vorm te geven. Ze kunnen zich ook persoonlijk en maatschappelijk ontwikkelen en reflecteren op hoe zij het verschil maken.
+>
+> ### Doel 3: maatschappelijk betrokken wereldburgers {.unnumbered}
+>
+> De HAN is een dynamische onderwijsinstelling voor studenten, medewerkers en het werkveld. Iedere student krijgt de mogelijkheid een studieroute te kiezen die past bij zijn persoonlijke ambities en ontwikkeling.
+>
+> ### Doel 4: duurzame verbindingen met partners {.unnumbered}
+>
+> De HAN is 1 van de sleutelspelers in veerkrachtige regionale kennis-ecosystemen. Met als focus: slimme, schone en sociale oplossingen voor de regio. We verbinden onderwijs, praktijkgericht onderzoek en het werkveld met elkaar.
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mDq-4sOjvYc?si=qkdLYieihKUGyfBN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Digitale Transformatie in Europa</h5>
+    <p class="card-text">Volgens het World Economic Forum zullen binnen 5 jaar 83 miljoen banen verdwijnen door AI en groene initiatieven. Het rapport, besproken met managing director Saadia Zahidi, wijst op een 'netto positief' effect met 69 miljoen nieuwe banen tegen 2027. Desondanks zullen vrouwen onevenredig getroffen worden door banenverstoring. Er is ook een groeiende trend van bedrijven die werknemers sneller omscholen om bij te blijven met de veranderende markt.</p>
+  </div>
+</div>
+```
+
+Het "[Microsoft New Future of Work Report 2023](NewFutureOfWork_Report2023.pdf){target="_blank"}" onderzoekt de integratie van Grote Taalmodellen (LLMs) in verschillende werkgebieden en benadrukt hun potentieel om productiviteit, creativiteit en samenwerking te verbeteren. Belangrijke gebieden zijn de verbetering van informatiewerk, kritisch denken, mens-AI-samenwerking, complexe en creatieve taken, domeinspecifieke toepassingen (zoals software-engineering, onderwijs, medische licenties), teamcollaboratie, kennisbeheer en de toekomstige implicaties voor werk en samenleving. Het rapport licht het belang toe van effectieve promptconstructie, de uitdaging van gepaste AI-afhankelijkheid en de rol van LLMs in het democratiseren van onderwijs en het bevorderen van meertalige capaciteiten. Er wordt een evenwichtige, mensgerichte benadering van AI-samenwerking voorgesteld, met inachtneming van zowel de voordelen als de uitdagingen van de integratie van LLMs in werkprocessen.
+
+::: {.callout-tip .my-5}
+## Beslisvragen visie
+
+1.  Vraag
+:::
+
+## - Strategie {{< fa route >}}
+
+![Agile Onderwijs Manifesto](images/manifesto.png){#fig-marketcap .m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+### Eindniveaus HAN BK
+
+Als student Bedrijfskunde krijg je te maken met een breed scala aan onderwerpen. Je leert over de nieuwste trends en praktijken in bedrijfsmanagement, marketing, financiën, human resources en meer. We richten ons niet alleen op theoretische kennis, maar ook op het ontwikkelen van praktische vaardigheden die essentieel zijn in de hedendaagse zakenwereld.
+
+Ons programma is opgebouwd rond een reeks kerncompetenties die aansluiten bij de eisen van de moderne bedrijfswereld. Deze competenties omvatten:
+
+1.  **Probleemanalyse en Diagnostiek:** Je leert problemen te identificeren en analyseren in verschillende zakelijke contexten.
+
+2.  **Ontwerpvaardigheden:** We moedigen je aan om creatieve en innovatieve oplossingen te ontwerpen.
+
+3.  **Veranderingsmanagement:** Je ontwikkelt vaardigheden om veranderingen effectief te beheren en te leiden.
+
+4.  **Evaluatievermogen:** Je leert processen en resultaten kritisch te evalueren.
+
+5.  **Onderzoeksvaardigheden:** Onderzoek speelt een cruciale rol in het maken van onderbouwde zakelijke beslissingen.
+
+6.  **Sociaal-communicatieve Vaardigheden:** Deze zijn essentieel voor succesvol teamwork en netwerken.
+
+7.  **Samenwerking en Netwerkvorming:** Je leert de kunst van samenwerken en het opbouwen van professionele relaties.
+
+8.  **Professionalisering:** Wij stimuleren je om een levenslange leerhouding te ontwikkelen.
+
+9.  **Waardengedreven Handelen:** Ethiek en integriteit staan centraal in onze aanpak.
+
+De opleiding is opgedeeld in drie niveaus van toenemende complexiteit en verantwoordelijkheid. Je start met het leggen van een solide basis (niveau 1), bouwt voort op gevorderde vaardigheden (niveau 2) en streeft uiteindelijk naar expertise (niveau 3). Elk niveau brengt je dichter bij het worden van een volwaardige bedrijfskundige professional.
+
+Uiteindelijk leer je bedrijfskundig redeneren en handelen. Dit beschouwen we als een overkoepelende competentie waar meerdere onderliggende competenties samenkomen.
+
+```{=html}
+<div class="container mt-5">
+    <h4>Overkoepelende competentie Bedrijfskunde HAN</h4>
+    <div class="table-responsive">
+        <table class="table table-bordered">
+    <thead>
+<tr>
+    <th colspan="3" class="table-active">Bedrijfskundig redeneren</th>
+</tr>
+    </thead>
+    <tbody>
+<tr>
+    <td colspan="3">De startende professional is in staat tot onderbouwde argumenten te komen voor een integraal advies op basis van data, theorie, de bedrijfskundige professionele vakmanschap en persoonlijke inbreng, zodat besluitvorming hierop plaats kan vinden. De student heeft zicht op de bedrijfskundige aspecten in relatie tot elkaar conform het bedrijfskundig model (niveaus/breedte: disciplines).</td>
+</tr>
+<tr>
+    <th class="col-4">Niveau 1</th>
+    <th class="col-4">Niveau 2</th>
+    <th class="col-4">Niveau 3</th>
+</tr>
+<tr>
+    <td class="col-4">De student herkent de relevante aspecten van een bedrijfskundig vraagstuk en kan op basis van betrouwbare argumenten een eenvoudig bedrijfskundig advies uitbrengen.</td>
+    <td class="col-4">De student onderbouwt een bedrijfskundig advies door bedrijfskundige kennis en vaardigheid toe te passen in het continu proces van gegevensverzameling en analyse, gericht op de vragen en problemen van een organisatie en diens stakeholders.</td>
+    <td class="col-4">De student kijkt meervoudig naar de problemen en oplossingen rondom een bedrijfskundig vraagstuk en ontwerpt een integrale oplossing die aantoonbaar leidt tot de realisatie van de bedrijfskundige doelstellingen.</td>
+</tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<div class="container">
+    <br>
+    <div class="row">
+
+        <!-- Niveau 1 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/emma.png" alt="Afbeelding van Emma">
+                <div class="card-body">
+                    <h5 class="card-title">Emma Jansen - Niveau 1</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Startende Bedrijfskundige</h6>
+                    <p class="card-text">Project: Efficiëntieanalyse bij Klein Kledingbedrijf.</p>
+                    <p class="font-italic">"Dit project hielp me inzien hoe cruciaal het is om elk aspect van een bedrijf te begrijpen, hoe klein ook!"</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 2 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/lucas.png" alt="Afbeelding van Lucas">
+                <div class="card-body">
+                    <h5 class="card-title">Lucas de Vries - Niveau 2</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Gevorderde Bedrijfskundige</h6>
+                    <p class="card-text">Project: Marktanalyse voor Tech Startup.</p>
+                    <p class="font-italic">"De uitdaging om nieuwe markten te identificeren was zowel boeiend als leerzaam, en toonde het belang van data-analyse aan."</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 3 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/sophia.png" alt="Afbeelding van Sofia">
+                <div class="card-body">
+                    <h5 class="card-title">Sophia Rodriguez - Niveau 3</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Expert Bedrijfskundige</h6>
+                    <p class="card-text">Project: Strategisch Plan voor Duurzame Energie.</p>
+                    <p class="font-italic">"Werken aan dit project heeft me niet alleen bedrijfskundige vaardigheden bijgebracht, maar ook hoe je een echte impact kunt maken op de wereld."</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+        <div class="row">
+        <!-- Niveau 1 Card voor Studentondernemer -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/bas.png" alt="Afbeelding van Bas">
+                <div class="card-body">
+                    <h5 class="card-title">Bastiaan van Dijk - Niveau 1</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Startende Studentondernemer</h6>
+                    <p class="card-text">Project: Opzetten van een community app.</p>
+                    <p class="font-italic">"Dit project leerde me de basis van het runnen van een bedrijf en het belang van klanttevredenheid."</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 2 Card voor Studentondernemer -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/amirah.png" alt="Afbeelding van Amirah">
+                <div class="card-body">
+                    <h5 class="card-title">Amirah Al-Hassan - Niveau 2</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Gevorderde Studentondernemer</h6>
+                    <p class="card-text">Project: Uitbreiding van een online kledingwinkel.</p>
+                    <p class="font-italic">"De groei van mijn online onderneming liet me de complexiteit van e-commerce en klantsegmentatie zien."</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 3 Card voor Studentondernemer -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/thomas.png" alt="Afbeelding van Thomas">
+                <div class="card-body">
+                    <h5 class="card-title">Thomas Meijer - Niveau 3</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Expert Studentondernemer</h6>
+                    <p class="card-text">Project: Ontwikkelen van een social entreprise.</p>
+                    <p class="font-italic">"Het bouwen en leiden van dit bedrijf heeft me geleerd hoe innovatie en duurzaamheid hand in hand kunnen gaan."</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+</div>
+```
+::: {.callout-tip .my-5}
+## Beslisvragen strategie
+
+2.  Vraag
+:::
+
+## - Ontwerp / uitvoering {{< fa compass-drafting >}}
+
+Tekst
+
+![Bloom's Taxonomy](images/bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/c5hpRX5ZeIc' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Constructive Alignment</h5>
+    <p class="card-text">Constructive Alignment is een krachtig principe voor onderwijsontwerp. Het helpt bij het ontwerpen van cursussen, leerplannen en het nemen van beslissingen over cursusactiviteiten en materialen. Bovendien kan het worden gebruikt om de relatie tussen de cursusactiviteiten en beoordeling uit te leggen. Dus bij de vraag: "komt dit in het examen?" kun je het antwoord koppelen aan het cursusprogramma.</p>
+  </div>
+</div>
+```
+![Constructive Alignment Model [@deibl_constructive_2018]](images/constructivealignment.jpeg){#fig-innovate .m-5 .w-75 onclick="toggleImageSize(\"fig-innovate\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+![Voorbeeld Minor Smart Industry: Formulering toetscriteria](images/criteria1.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+![Voorbeeld Minor Smart Industry: Koppeling criteria aan gedrag en houding Minor Smart Industry](images/criteria2.png){#fig-digcomp .m-5 .w-75 onclick="toggleImageSize(\"fig-digcomp\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+![Voorbeeld beoordeling afstudeeropdrachten a.h.v. persona's <a href="https://hanbedrijfskunde.github.io/aodform/" target="_blank">link</a>](images/agile-aod.png){#fig-digmat .m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+Tekst
+
+::: {.callout-tip .my-5}
+## Beslisvragen ontwerp en uitvoering
+
+3.  Vraag
+:::
+
+## - Inspiratie {{< fa lightbulb >}}
+
+Tekst
+
+### Visie / Strategie / Waardecreatie
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/kg2E3GHnWU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Open Strategy</h5>
+    <p class="card-text">Open strategy en open source hebben een nauwe relatie omdat ze beide zijn gebaseerd op de principes van openheid, samenwerking en transparantie. Open source-software maakt gebruik van open strategieën om bijdragen van de gemeenschap te stimuleren en te beheren, terwijl open strategieën kunnen worden toegepast op andere gebieden, zoals bedrijfsstrategie, om meer participatie en betrokkenheid mogelijk te maken.</p>
+  </div>
+</div>
+```
+### Organisatie / Mensen / Informatie
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/pTe-0cyAqHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">The Only Business Metric That Matters</h5>
+    <p class="card-text">We willen allemaal geweldige ideeën, maar weinigen begrijpen echt hoe geweldige ideeën ontstaan. Innovatie is geen evenement, geen workshop, sprint of hackathon. Het is het resultaat van het beheersen van de ideeënstroom, een exercitie die al het andere dat je doet naar een hoger niveau tilt. Voortbouwend op de lessen uit Stanfords belangrijkste LaunchPad-acceleratorprogramma en van enkele van 's werelds meest innovatieve organisaties, onthullen Jeremy Utley en Perry Klebahn dat de sleutel tot creatie ideaflow is - de praktijk die creatieve output versterkt.</p>
+  </div>
+</div>
+```
+## - Bronnen {{< fa book-open-reader >}}
+
+::: {#refs}
+:::
