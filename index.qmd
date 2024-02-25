@@ -30,15 +30,15 @@ Door de Agile inrichting van Hoger Onderwijs verschuift de focus naar de kern va
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
-> ### Doel 1: Maatschappelijk betrokken wereldburgers {.unnumbered}
+> ### Doel 1: maatschappelijk betrokken wereldburgers {.unnumbered}
 >
 > Onze studenten ervaren dat ze bij de HAN niet alleen kennis en praktische vaardigheden verwerven om de toekomst vorm te geven. Ze kunnen zich ook persoonlijk en maatschappelijk ontwikkelen en reflecteren op hoe zij het verschil maken.
 >
-> ### Doel 3: Flexibel onderwijs {.unnumbered}
+> ### Doel 3: flexibel onderwijs {.unnumbered}
 >
 > De HAN is een dynamische onderwijsinstelling voor studenten, medewerkers en het werkveld. Iedere student krijgt de mogelijkheid een studieroute te kiezen die past bij zijn persoonlijke ambities en ontwikkeling.
 >
-> ### Doel 4: Duurzame verbindingen met partners {.unnumbered}
+> ### Doel 4: duurzame verbindingen met partners {.unnumbered}
 >
 > De HAN is 1 van de sleutelspelers in veerkrachtige regionale kennis-ecosystemen. Met als focus: slimme, schone en sociale oplossingen voor de regio. We verbinden onderwijs, praktijkgericht onderzoek en het werkveld met elkaar.
 
@@ -51,9 +51,9 @@ Tekst
   </div>
   <div class="card-body">
     <h5 class="card-title">De Toekomst van Werk</h5>
-    <p class="card-text">Volgens het World Economic Forum zullen AI en duurzaamheidsinspanningen de komende vijf jaar 83 miljoen banen doen verdwijnen, hoewel er naar verwachting 69 miljoen nieuwe banen zullen ontstaan. Dit dubbelzijdige effect vereist versnelde omscholing, vooral omdat vrouwen disproportioneel geraakt worden door deze veranderingen.
+    <p class="card-text">Volgens het World Economic Forum zullen AI en duurzaamheidsinspanningen de komende vijf jaar 83 miljoen banen doen verdwijnen, hoewel er naar verwachting 69 miljoen nieuwe banen zullen ontstaan. Dit dubbelzijdige effect vereist versnelde omscholing, vooral omdat vrouwen disproportioneel geraakt worden door deze veranderingen.</p>
 
-Het <a href="NewFutureOfWork_Report2023.pdf" target="_blank">Microsoft New Future of Work Report</a> toont aan dat Grote Taalmodellen (LLMs) zoals ChatGPT, de productiviteit en samenwerking over sectoren heen kunnen verbeteren, van software-engineering tot onderwijs. De nadruk ligt op het belang van een evenwichtige mens-AI-samenwerking en het bewustzijn van de noodzaak om onze afhankelijkheid van AI te managen. Dit onderstreept het belang van strategische aanpassing in de arbeidsmarkt en het onderwijs om te zorgen voor toekomstbestendige werkgelegenheid en maatschappij.</p>
+<p>Het <a href="NewFutureOfWork_Report2023.pdf" target="_blank">Microsoft New Future of Work Report</a> toont aan dat Grote Taalmodellen (LLMs) zoals ChatGPT, de productiviteit en samenwerking over sectoren heen kunnen verbeteren, van software-engineering tot onderwijs. De nadruk ligt op het belang van een evenwichtige mens-AI-samenwerking en het bewustzijn van de noodzaak om onze afhankelijkheid van AI te managen. Dit onderstreept het belang van strategische aanpassing in de arbeidsmarkt en het onderwijs om te zorgen voor toekomstbestendige werkgelegenheid en maatschappij.</p>
   </div>
 </div>
 ```
