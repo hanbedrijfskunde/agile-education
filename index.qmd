@@ -18,18 +18,15 @@ editor: visual
 bibliography: bibliography.bib
 ---
 
-## - Doel {{< fa bullseye >}}
+## Doel {{< fa bullseye >}}
 
-```{=html}
-<p class="lead">
+In de snel veranderende - VUCA - wereld van vandaag is de noodzaak voor hoger onderwijsinstellingen om wendbaar en flexibel te zijn belangrijker dan ooit. Het vermogen om snel te reageren op nieuwe technologieën, veranderende arbeidsmarkteisen en de voortdurende evolutie in leerbehoeften van studenten is cruciaal voor het leveren van relevant en effectief onderwijs. De principes van Agile, oorspronkelijk ontwikkeld voor softwareontwikkeling, bieden een krachtig raamwerk om deze uitdagingen aan te gaan. Door deze principes toe te passen, kunnen onderwijsinstellingen een omgeving creëren die bevorderlijk is voor continue verbetering, aanpassingsvermogen en studentgerichtheid.
 
-Tekst
+Het Agile Onderwijs Manifesto verschuift de focus naar de kern van leren: de dynamiek tussen studenten en docenten prevaleert boven strikte regelgeving, en de expertise van vakprofessionals weegt zwaarder dan starre toetsingsprotocollen. Interdisciplinaire samenwerking tussen het onderwijsveld, de industrie en studenten krijgt voorrang op ingewikkelde organisatieprocessen. Essentieel is de flexibiliteit van het leerplan, waarbij het inspelen op veranderende omstandigheden belangrijker is dan het vasthouden aan gestandaardiseerde curricula. Dit manifest onderstreept het belang van aanpassingsvermogen en actieve betrokkenheid om het onderwijs toekomstbestendig te houden.
 
-</p>
-```
-Tekst
+![Agile Onderwijs Manifesto](images/manifesto.png){#fig-marketcap .m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
-## - Missie / Visie {{< fa mountain-sun >}}
+## Missie / Visie {{< fa mountain-sun >}}
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
@@ -37,7 +34,7 @@ Tekst
 >
 > Onze studenten ervaren dat ze bij de HAN niet alleen kennis en praktische vaardigheden verwerven om de toekomst vorm te geven. Ze kunnen zich ook persoonlijk en maatschappelijk ontwikkelen en reflecteren op hoe zij het verschil maken.
 >
-> ### Doel 3: maatschappelijk betrokken wereldburgers {.unnumbered}
+> ### Doel 3: flexibel onderwijs {.unnumbered}
 >
 > De HAN is een dynamische onderwijsinstelling voor studenten, medewerkers en het werkveld. Iedere student krijgt de mogelijkheid een studieroute te kiezen die past bij zijn persoonlijke ambities en ontwikkeling.
 >
@@ -68,8 +65,6 @@ Het "[Microsoft New Future of Work Report 2023](NewFutureOfWork_Report2023.pdf){
 :::
 
 ## - Strategie {{< fa route >}}
-
-![Agile Onderwijs Manifesto](images/manifesto.png){#fig-marketcap .m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ### Eindniveaus HAN BK
 
