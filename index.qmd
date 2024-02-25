@@ -30,15 +30,15 @@ Door de Agile inrichting van Hoger Onderwijs verschuift de focus naar de kern va
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
-> ### Doel 1: maatschappelijk betrokken wereldburgers {.unnumbered}
+> ### Doel 1: Maatschappelijk betrokken wereldburgers {.unnumbered}
 >
 > Onze studenten ervaren dat ze bij de HAN niet alleen kennis en praktische vaardigheden verwerven om de toekomst vorm te geven. Ze kunnen zich ook persoonlijk en maatschappelijk ontwikkelen en reflecteren op hoe zij het verschil maken.
 >
-> ### Doel 3: flexibel onderwijs {.unnumbered}
+> ### Doel 3: Flexibel onderwijs {.unnumbered}
 >
 > De HAN is een dynamische onderwijsinstelling voor studenten, medewerkers en het werkveld. Iedere student krijgt de mogelijkheid een studieroute te kiezen die past bij zijn persoonlijke ambities en ontwikkeling.
 >
-> ### Doel 4: duurzame verbindingen met partners {.unnumbered}
+> ### Doel 4: Duurzame verbindingen met partners {.unnumbered}
 >
 > De HAN is 1 van de sleutelspelers in veerkrachtige regionale kennis-ecosystemen. Met als focus: slimme, schone en sociale oplossingen voor de regio. We verbinden onderwijs, praktijkgericht onderzoek en het werkveld met elkaar.
 
